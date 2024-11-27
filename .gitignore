@@ -520,7 +520,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
-
+.vs/
+.Task/bin
+.Task/obj
 # JetBrains Rider
 
 # End of https://www.toptal.com/developers/gitignore/api/csharp,aspnetcore
